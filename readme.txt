@@ -1,0 +1,1 @@
+To run this python script, run terminal, cd path command and type 'python 518H0114.py --image input.png'
